@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!--状态栏颜色-->
+        <item name="colorPrimaryDark">@android:color/holo_red_light</item>
+        <!--Appbar背景色-->
+        <item name="colorPrimary">@android:color/holo_red_light</item>
+        <!--页面背景色-->
+        <item name="android:windowBackground">@android:color/white</item>
+        <!--ToolBar上的Title颜色-->
+        <item name="android:textColorPrimary">@android:color/holo_red_light</item>
+        <!--控制各个控件被选中时的颜色-->
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>
